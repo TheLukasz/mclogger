@@ -1,0 +1,12 @@
+status: Paper 1.20.2   111.63ms
+players online:
+	*  netherrack
+	*  yoyohello
+	*  iMordy_1
+	*  wejhfiwhi
+	*  MinerBot
+	*  yteicoSterceS
+	*  Saumit_69
+	*  Anonymous Player
+	*  NYHAPPY
+	*  annisa041122
