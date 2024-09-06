@@ -14,9 +14,7 @@ class log:
     def close(self):
         self.file.close()
 
-#server = JavaServer.lookup("jedziemypoczarnych.aternos.me:43800")
-#server = JavaServer.lookup("Thunder3SMP.aternos.me:35508")
-server = JavaServer.lookup("51.222.177.127:25578")
+server = JavaServer.lookup("******:25578")
 status = server.status()
 
 print(f"status: {status.version.name} {status.latency:8.2f}ms")
